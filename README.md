@@ -54,7 +54,14 @@ john --show myhashes.txt
 4. **Password Recovery** – Successfully cracked passwords are displayed.
 
 ## OUTPUT:
-Cracked Passwords from Hash File
+
+![dfdi - 3](https://github.com/user-attachments/assets/4b62d836-d6ff-428e-9dd7-52ee981f00d5)
+
+![dfdi - 1](https://github.com/user-attachments/assets/bda0ecf2-e15a-48e3-a49f-a8b004703ec8)
+
+![dfdi- 2](https://github.com/user-attachments/assets/235766c1-5677-4ec6-8699-999c2c77fa38)
+
+
 
 ## RESULT:
 The password hashes were successfully cracked using John the Ripper.
